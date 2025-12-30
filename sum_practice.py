@@ -11,3 +11,5 @@ temp = a
 a = b
 b = temp
 print(f"a = {a} and b = {b}")
+
+print(2*10)
